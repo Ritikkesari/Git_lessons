@@ -13,3 +13,4 @@
 * `checkout -b` -> to create a new branch 
 * `reset` -> undo the status
 * `log` -> will show how many commit happened in that repo
+* `branch` -> to create new branch
