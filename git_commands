@@ -14,3 +14,4 @@
 * `reset` -> undo the status
 * `log` -> will show how many commit happened in that repo
 * `branch` -> to create new branch
+* git pull origin main --allow-unrelated-histories -> this is for pulling the project which already has some commit previously
